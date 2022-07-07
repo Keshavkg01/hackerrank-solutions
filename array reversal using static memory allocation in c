@@ -1,0 +1,9 @@
+int arr[]={1,4,3,2};
+int i;
+printf("array elements are\n");
+for(i=0;i<4;i++)
+	printf("%d\n",arr[i]);
+
+pf("reverse of array is\n");
+for(i=03;i>=0;i--)
+	pf("%d\n",arr[i]);
